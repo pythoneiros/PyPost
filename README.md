@@ -1,20 +1,6 @@
-# Python Microposts App
-### Plataforma de microposts inspirada no twitter com features diferenciadas.
+# PyPosts
+Plataforma de microposts inspirada no twitter com features diferenciadas e Open Source.
 
-Em cada branch vamos criar uma versão conforme o framework. Seguem os frameworks até o momento:
-
-- Django
-- Flask
-- Bottle
-- Web2py
-
-**Features/Funcionalidades:**
-
-- login/logout/Oauth
-- microposts
-- following/unfollowing (seguir/não seguir)
-- ...??
-
-
-Ao final, uma idéia seria empacotarmos o projeto e distribuí-lo via gerenciador de pacotes.
+### Objetivos e progresso do projeto
+[Leia nossa Wiki](https://github.com/pythoneiros/python-microposts-app/wiki) para saber mais
 
