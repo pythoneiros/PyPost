@@ -55,3 +55,12 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# PyCharm
+.idea/
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/.name
+.idea/misc.xml
+.idea/pypost.iml
